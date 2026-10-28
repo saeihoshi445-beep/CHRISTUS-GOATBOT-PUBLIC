@@ -68,7 +68,7 @@ module.exports = {
         for (let i = 0; i < cmds.length; i += 3) {
           const line = cmds
             .slice(i, i + 3)
-            .map(c => `📄 ${fonts.sansSerif(c)}`)
+            .map(c => `🍀 ${fonts.sansSerif(c)}`)
             .join("   ");
           msg += line + "\n";
         }
@@ -79,7 +79,7 @@ module.exports = {
       msg += `\n${fonts.bold("➜ Command details:")} ${prefix}menu <commande>\n`;
       msg += `${fonts.bold("➜ Basics:")} ${prefix}help basics\n`;
       msg += `${fonts.bold("➜ Search:")} ${prefix}help search <mot>\n`;
-      msg += `${fonts.bold("➜ Developed by @Christus")} 🎀`;
+      msg += `${fonts.bold("➜ Developed by @brayan slyde")} 🎀`;
 
       return message.reply(msg);
     }
@@ -114,7 +114,7 @@ module.exports = {
 
       msg += `\n${fonts.bold("➜ Try to Explore more commands!")}\n`;
       msg += `${fonts.bold("➜ View all:")} ${prefix}help all\n`;
-      msg += `${fonts.bold("➜ Developed by @Christus")} 🎀`;
+      msg += `${fonts.bold("➜ Developed by @brayan slyde")} 🎀`;
 
       return message.reply(msg);
     }
@@ -153,7 +153,7 @@ module.exports = {
         msg += `${fonts.bold("➜")} ${cfg.description?.fr || "No Description"}\n\n`;
       }
 
-      msg += `${fonts.bold("➜ Developed by @Christus")} 🎀`;
+      msg += `${fonts.bold("➜ Developed by @brayan slyde")} 🎀`;
 
       return message.reply(msg);
     }
