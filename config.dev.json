@@ -16,13 +16,13 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "creator": ["61595921694523"],
-  "developer": ["61595921694523"],
-  "adminBot": ["61595921694523"],
-  "premium": ["61595921694523"],
-  "vipuser": ["61595921694523"],
-  "premiumUsers": ["61595921694523"],
-  "devUsers": ["61595921694523"],
+  "creator": ["61596092882423"],
+  "developer": ["61596092882423"],
+  "adminBot": ["61596092882423"],
+  "premium": ["61596092882423"],
+  "vipuser": ["61596092882423"],
+  "premiumUsers": ["61596092882423"],
+  "devUsers": ["61596092882423"],
   "developerOnly": {
     "enable": false,
     "ignoreCommand": []
@@ -37,11 +37,11 @@
   },
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [61595921694523],
+    "whiteListIds": [61596092882423],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Itz sae itoshi",
-  "prefix": "£",
+  "nickNameBot": "Itz sae itoshi 💙",
+  "prefix": "∆",
   "noPrefix": true,
   "database": {
     "type": "mongodb",
