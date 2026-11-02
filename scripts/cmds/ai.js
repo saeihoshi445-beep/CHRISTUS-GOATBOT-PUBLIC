@@ -1,1 +1,230 @@
-const _0x575e3d=_0x50b3;function _0x50b3(_0x78d5d2,_0x5c5264){const _0x29a7fe=_0x29a7();return _0x50b3=function(_0x50b3de,_0x3d9ac5){_0x50b3de=_0x50b3de-0x151;let _0x5ba4df=_0x29a7fe[_0x50b3de];if(_0x50b3['PJRUQd']===undefined){var _0xc5277c=function(_0x505e6d){const _0x1a6919='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1e7210='',_0x3782dc='';for(let _0x43b4c1=0x0,_0x29d8ae,_0x2ccae4,_0xe05c19=0x0;_0x2ccae4=_0x505e6d['charAt'](_0xe05c19++);~_0x2ccae4&&(_0x29d8ae=_0x43b4c1%0x4?_0x29d8ae*0x40+_0x2ccae4:_0x2ccae4,_0x43b4c1++%0x4)?_0x1e7210+=String['fromCharCode'](0xff&_0x29d8ae>>(-0x2*_0x43b4c1&0x6)):0x0){_0x2ccae4=_0x1a6919['indexOf'](_0x2ccae4);}for(let _0x292429=0x0,_0x2a0844=_0x1e7210['length'];_0x292429<_0x2a0844;_0x292429++){_0x3782dc+='%'+('00'+_0x1e7210['charCodeAt'](_0x292429)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3782dc);};_0x50b3['FuRuVJ']=_0xc5277c,_0x78d5d2=arguments,_0x50b3['PJRUQd']=!![];}const _0x11a79e=_0x29a7fe[0x0],_0x4df31a=_0x50b3de+_0x11a79e,_0x391b70=_0x78d5d2[_0x4df31a];return!_0x391b70?(_0x5ba4df=_0x50b3['FuRuVJ'](_0x5ba4df),_0x78d5d2[_0x4df31a]=_0x5ba4df):_0x5ba4df=_0x391b70,_0x5ba4df;},_0x50b3(_0x78d5d2,_0x5c5264);}(function(_0x2a5d16,_0x2f2293){const _0x4c6bd8=_0x50b3,_0x5d1a62=_0x2a5d16();while(!![]){try{const _0x2daecc=-parseInt(_0x4c6bd8(0x19f))/0x1*(parseInt(_0x4c6bd8(0x18c))/0x2)+parseInt(_0x4c6bd8(0x198))/0x3*(-parseInt(_0x4c6bd8(0x165))/0x4)+-parseInt(_0x4c6bd8(0x166))/0x5*(-parseInt(_0x4c6bd8(0x184))/0x6)+-parseInt(_0x4c6bd8(0x18e))/0x7*(-parseInt(_0x4c6bd8(0x1a2))/0x8)+parseInt(_0x4c6bd8(0x169))/0x9*(-parseInt(_0x4c6bd8(0x176))/0xa)+parseInt(_0x4c6bd8(0x171))/0xb*(-parseInt(_0x4c6bd8(0x153))/0xc)+-parseInt(_0x4c6bd8(0x1aa))/0xd*(-parseInt(_0x4c6bd8(0x16b))/0xe);if(_0x2daecc===_0x2f2293)break;else _0x5d1a62['push'](_0x5d1a62['shift']());}catch(_0x1f36a4){_0x5d1a62['push'](_0x5d1a62['shift']());}}}(_0x29a7,0xd98b7));const axios=require(_0x575e3d(0x1a9)),validUrl=require(_0x575e3d(0x19a)),fs=require('fs'),path=require('path'),{v4:uuidv4}=require(_0x575e3d(0x16d)),API_ENDPOINT=_0x575e3d(0x190),CLEAR_ENDPOINT=_0x575e3d(0x191),TMP_DIR=path[_0x575e3d(0x182)](__dirname,_0x575e3d(0x1a6));function _0x29a7(){const _0x281402=['C3rHDhvZ','zxHWB3j0CW','mJG3otK4wKnfAxP4','yxjYyxLIDwzMzxi','mJGZmtiYn3rXy0vbDW','zxjYB3i','Ahr0Chm6lY9ZAgL6DwfPlNzLCMnLBc5HChaVy2HHDa','Ahr0Chm6lY9ZAgL6DwfPlNzLCMnLBc5HChaVy2HHDc9JBgvHCG','DhLWzq','q2HYAxn0DxmGquK','y29Kzq','y2XLyxi','cGRWN461ieX5CMLJCYbMB3iGiG','sMuGC3vPCYbdAhjPC3r1CYbbssWGDw4GyxnZAxn0yw50igLUDgvSBgLNzw50lcbWB2XPigv0ihv0AwXLignYW6NdQsbWyxiGq2HYAxn0DxmU','mZqXmdq5mfPsBLPOCG','runptK5bqK9sveve','DMfSAwqTDxjS','C2vUzgvYsuq','cVcFK50GthLYAwnZihbYB2nLC3nPBMCGzMfPBgvKlG','BwvZC2fNzq','BwvZC2fNzuLe','mtfRseXdAfC','4P2mifjLC2v0igzHAwXLzc4Gvhj5igfNywLUlG','C3vIC3rYAw5N','mZjUsKPqCNm','yxv0Ag9Y','ANbN','B25szxbSEq','Dg1W','BgvUz3rO','CgHVDg8','yxHPB3m','mZy4nZCXzwX0t0vP','DMLKzw9vCMW','4O+X77IpifrPBwvVDxqUifrYEsbHz2fPBI4','BwvZC2fNzvjLCgX5','mJCZmta4q3vQtefl','BwTKAxjtEw5J','z2v0','Bxa0','ChvZAa','CMvWBhK','cVcFJRuGtxvZAwmGzg93BMXVywqGzMfPBgvKlG','lI4UifT0CNvUy2f0zwrD','yM9KEq','iJOk','4P2xifbSzwfZzsbLBNrLCIbHig1LC3nHz2uU','8j+xVYdWNzcc8j2qH/cDKjhWNzci8j2qKVcDKjpWNzcu8j2qKG','BxaZ','zgvSzxrL','CMvWBgfJzq','4PYfienVBNzLCNnHDgLVBIbYzxnLDcbMB3iGvuLeoIa','C2v0','Aw5JBhvKzxm','ne1jy2TAza','mtiZote0mfDAsLjpva','DhjHy2TFBMfTzq','cVcFLRZVUi8Gsw1Hz2uGzg93BMXVywqGzMfPBgvKlG','ota4mvDIDhPVra','BhLYAwnZ','odi2zwnsu1nw','C2v0twvZC2fNzvjLywn0Aw9U','DxvPza','qwr2yw5JzwqGquKGD2L0AcbPBwfNzsbNzw4Sig11C2LJl3zPzgvVlcbSExjPy3mSigfUzcbtAg90Aq','C2XPy2u','4P2mifjLC2v0ievYCM9YoG','mteWwNvpDwjY','C3rHCNrZv2L0Aa','zgf0yq','4P2miefqssbfCNjVCJO','yM90suq','nJG1mfnOChPKwG','DhjPBq','zg93BMXVywrvCMW','Cg9ZDa','4PQG77IpiefjievYCM9YoGOk','y3jLyxrLuMvHzfn0CMvHBq','lMfPifT5B3vYig1LC3nHz2vDicak4OcIipcFPjyGq2HHDcWG8j+oQcbjBwfNzsWG8j+oTsbnDxnPyYWG8j+oRcbwAwrLBYaGcUkaOIdWN461ieX5CMLJCZOGiMX5CMLJCYbBC29UzYbUyw1LxsiGiaRIGkiG8j+oRcbtAg90AtOGiNnOB3rPiIbMB3iGCMfUzg9TifrPA1rVAYaGcUkaOIdWN5seifjLCgX5icjJBgvHCIiGDg8GCMvZzxqGy29UDMvYC2f0Aw9Uicak4OcIipcFKQWGv29YA3mGAw4Gy2HHDdOGiMfPifTTzxnZywDLxsi','4PYfiefjifjLC3bVBNnLoG','cGRWN5omifjLCgX5oGOI','zxHPC3rZu3LUyW','Dg9mB3DLCKnHC2u','yxr0ywnOBwvUDhm','AM9PBG','CMvZzxq','mZbyBgD5vwS','CMvZCg9UC2u','r29HDejVDa','DgLTzw91Da','q2HYAxn0Dxm','D3jPDgvgAwXLu3LUyW'];_0x29a7=function(){return _0x281402;};return _0x29a7();}if(!fs[_0x575e3d(0x17f)](TMP_DIR))fs[_0x575e3d(0x154)](TMP_DIR);const downloadFile=async(_0x505e6d,_0x1a6919)=>{const _0x169077=_0x575e3d,_0x1e7210=path[_0x169077(0x182)](TMP_DIR,uuidv4()+'.'+_0x1a6919),_0x3782dc=await axios[_0x169077(0x155)](_0x505e6d,{'responseType':_0x169077(0x18d)});return fs[_0x169077(0x189)](_0x1e7210,Buffer['from'](_0x3782dc[_0x169077(0x173)])),_0x1e7210;},resetConversation=async(_0x43b4c1,_0x29d8ae,_0x2ccae4)=>{const _0x2ec190=_0x575e3d;_0x43b4c1['setMessageReaction']('♻️',_0x29d8ae[_0x2ec190(0x19e)],()=>{},!![]);try{return await axios[_0x2ec190(0x160)](CLEAR_ENDPOINT+'/'+_0x29d8ae[_0x2ec190(0x19b)]),_0x2ccae4[_0x2ec190(0x158)](_0x2ec190(0x162)+_0x29d8ae[_0x2ec190(0x19b)]);}catch(_0xe05c19){return console[_0x2ec190(0x18f)](_0x2ec190(0x170),_0xe05c19[_0x2ec190(0x19d)]),_0x2ccae4['reply'](_0x2ec190(0x1a0));}},handleAIRequest=async(_0x292429,_0x2a0844,_0x5b7065,_0x53cff1,_0x10df4f=![])=>{const _0x3ba3ec=_0x575e3d,_0x1f2f63=_0x2a0844[_0x3ba3ec(0x19b)];let _0xab38d3=_0x5b7065,_0x271961=null;_0x292429[_0x3ba3ec(0x16c)]('⏳',_0x2a0844['messageID'],()=>{},!![]);if(_0x2a0844['messageReply']){const _0x2dcf69=_0x2a0844[_0x3ba3ec(0x152)];if(_0x2dcf69[_0x3ba3ec(0x19b)]!==global[_0x3ba3ec(0x186)]?.[_0x3ba3ec(0x175)]&&_0x2dcf69['body']){const _0x282221=_0x2dcf69[_0x3ba3ec(0x15b)][_0x3ba3ec(0x1a7)]>0x12c?_0x2dcf69[_0x3ba3ec(0x15b)][_0x3ba3ec(0x16f)](0x0,0x12c)+'...':_0x2dcf69[_0x3ba3ec(0x15b)];_0xab38d3+=_0x3ba3ec(0x17e)+_0x282221+'\x22';}const _0xc00fa9=_0x2dcf69[_0x3ba3ec(0x181)]?.[0x0];if(_0xc00fa9?.[_0x3ba3ec(0x192)]===_0x3ba3ec(0x1a8))_0x271961=_0xc00fa9['url'];}const _0x44715d=_0xab38d3['match'](/(https?:\/\/[^\s]+)/)?.[0x0];_0x44715d&&validUrl['isWebUri'](_0x44715d)&&(_0x271961=_0x44715d,_0xab38d3=_0xab38d3[_0x3ba3ec(0x161)](_0x44715d,'')[_0x3ba3ec(0x177)]());if(!_0xab38d3&&!_0x271961)return _0x292429[_0x3ba3ec(0x16c)]('❌',_0x2a0844[_0x3ba3ec(0x19e)],()=>{},!![]),_0x53cff1[_0x3ba3ec(0x158)]('💬\x20Provide\x20a\x20message\x20or\x20image.');try{const _0x3d72e8=await axios[_0x3ba3ec(0x179)](API_ENDPOINT,{'uid':_0x1f2f63,'message':_0xab38d3,'image_url':_0x271961},{'timeout':0xea60}),{reply:_0x544ee1,image_url:_0x11a7ab,music_data:_0x122415,video_data:_0x17025d,shotti_data:_0x11125a,lyrics_data:_0x14881c}=_0x3d72e8['data'];let _0x1ed4dd=_0x544ee1||_0x3ba3ec(0x17d);_0x1ed4dd=_0x1ed4dd[_0x3ba3ec(0x161)](/Heck.ai/gi,_0x3ba3ec(0x188))[_0x3ba3ec(0x161)](/Aryan/gi,_0x3ba3ec(0x188)),_0x1ed4dd=_0x1ed4dd[_0x3ba3ec(0x161)](/🎀\s*𝗦𝗵𝗶𝘇𝘂/gi,_0x3ba3ec(0x15e))[_0x3ba3ec(0x161)](/Shizu AI/gi,_0x3ba3ec(0x193))[_0x3ba3ec(0x161)](/Shizuka AI/gi,_0x3ba3ec(0x193))[_0x3ba3ec(0x161)](/Shizuka/gi,_0x3ba3ec(0x193))['replace'](/Shizu/gi,'Christus\x20AI'),_0x1ed4dd=_0x1ed4dd[_0x3ba3ec(0x161)](/Je suis Shizuka AI, un assistant intelligent, poli et utile créé par Christus\./gi,_0x3ba3ec(0x197));const _0x15da9e=[];if(_0x11a7ab)try{_0x15da9e[_0x3ba3ec(0x157)](fs[_0x3ba3ec(0x17b)](await downloadFile(_0x11a7ab,_0x3ba3ec(0x1a4))));}catch{_0x1ed4dd+=_0x3ba3ec(0x168);}if(_0x122415?.[_0x3ba3ec(0x178)])try{_0x15da9e['push'](fs[_0x3ba3ec(0x17b)](await downloadFile(_0x122415[_0x3ba3ec(0x178)],_0x3ba3ec(0x15f))));}catch{_0x1ed4dd+=_0x3ba3ec(0x159);}if(_0x17025d?.[_0x3ba3ec(0x178)])try{_0x15da9e[_0x3ba3ec(0x157)](fs[_0x3ba3ec(0x17b)](await downloadFile(_0x17025d['downloadUrl'],_0x3ba3ec(0x156))));}catch{_0x1ed4dd+='\x0a🎬\x20Video\x20download\x20failed.';}if(_0x11125a?.[_0x3ba3ec(0x1ab)])try{_0x15da9e[_0x3ba3ec(0x157)](fs['createReadStream'](await downloadFile(_0x11125a[_0x3ba3ec(0x1ab)],_0x3ba3ec(0x156))));}catch{_0x1ed4dd+='\x0a🎬\x20Shoti\x20video\x20download\x20failed.';}if(_0x14881c)try{const _0xc2be67=0x5dc;let _0x41895e=_0x14881c[_0x3ba3ec(0x16a)];_0x41895e[_0x3ba3ec(0x1a7)]>_0xc2be67&&(_0x41895e=_0x41895e[_0x3ba3ec(0x1a1)](0x0,_0xc2be67)+_0x3ba3ec(0x15a)),_0x1ed4dd+=_0x3ba3ec(0x196)+_0x14881c[_0x3ba3ec(0x167)]+_0x3ba3ec(0x15c)+_0x41895e;}catch{_0x1ed4dd+=_0x3ba3ec(0x19c);}const _0xb2272c=await _0x53cff1[_0x3ba3ec(0x158)]({'body':_0x1ed4dd,'attachment':_0x15da9e[_0x3ba3ec(0x1a7)]>0x0?_0x15da9e:undefined});_0xb2272c&&_0xb2272c[_0x3ba3ec(0x19e)]&&global['GoatBot'][_0x3ba3ec(0x1a5)][_0x3ba3ec(0x163)](_0xb2272c[_0x3ba3ec(0x19e)],{'commandName':'ai','messageID':_0xb2272c[_0x3ba3ec(0x19e)],'author':_0x1f2f63}),_0x292429[_0x3ba3ec(0x16c)]('✅',_0x2a0844[_0x3ba3ec(0x19e)],()=>{},!![]);}catch(_0x52fe7e){console[_0x3ba3ec(0x18f)](_0x3ba3ec(0x174),_0x52fe7e[_0x3ba3ec(0x185)]?.[_0x3ba3ec(0x173)]||_0x52fe7e[_0x3ba3ec(0x19d)]),_0x292429['setMessageReaction']('❌',_0x2a0844[_0x3ba3ec(0x19e)],()=>{},!![]);let _0x7bc0b9=_0x3ba3ec(0x17a);if(_0x52fe7e[_0x3ba3ec(0x194)]===_0x3ba3ec(0x199)||_0x52fe7e['message'][_0x3ba3ec(0x164)](_0x3ba3ec(0x187)))_0x7bc0b9+=_0x3ba3ec(0x151);else _0x52fe7e[_0x3ba3ec(0x185)]?.[_0x3ba3ec(0x18a)]===0x1ad?_0x7bc0b9+='🚦\x20Too\x20many\x20requests.\x20Slow\x20down.':_0x7bc0b9+='❌\x20Unexpected\x20error:\x20'+(_0x52fe7e['message']||'No\x20details');return _0x53cff1[_0x3ba3ec(0x158)](_0x7bc0b9);}};module[_0x575e3d(0x18b)]={'config':{'name':'ai','aliases':[],'version':'2.0.0','author':_0x575e3d(0x188),'role':0x0,'category':'ai','longDescription':{'en':_0x575e3d(0x16e)},'guide':{'en':_0x575e3d(0x17c)}},'onStart':async function({api:_0x2f14f2,event:_0x1883b0,args:_0x4c20ba,message:_0x5b9c93}){const _0x239f52=_0x575e3d,_0x6c7f21=_0x4c20ba[_0x239f52(0x182)]('\x20')[_0x239f52(0x177)]();if(!_0x6c7f21)return _0x5b9c93[_0x239f52(0x158)](_0x239f52(0x15d));if(['clear',_0x239f52(0x183)][_0x239f52(0x164)](_0x6c7f21[_0x239f52(0x180)]()))return await resetConversation(_0x2f14f2,_0x1883b0,_0x5b9c93);return await handleAIRequest(_0x2f14f2,_0x1883b0,_0x6c7f21,_0x5b9c93);},'onReply':async function({api:_0x324959,event:_0x4f8bbf,Reply:_0x3f6cee,message:_0x1aed07}){const _0x433cc0=_0x575e3d;if(_0x4f8bbf[_0x433cc0(0x19b)]!==_0x3f6cee[_0x433cc0(0x1a3)])return;const _0xa292e9=_0x4f8bbf[_0x433cc0(0x15b)]?.['trim']();if(!_0xa292e9)return;if([_0x433cc0(0x195),'reset'][_0x433cc0(0x164)](_0xa292e9['toLowerCase']()))return await resetConversation(_0x324959,_0x4f8bbf,_0x1aed07);return await handleAIRequest(_0x324959,_0x4f8bbf,_0xa292e9,_0x1aed07,!![]);},'onChat':async function({api:_0x3c6e7e,event:_0x56a4bc,message:_0x51982d}){const _0xc908f0=_0x575e3d,_0x13c1b0=_0x56a4bc[_0xc908f0(0x15b)]?.[_0xc908f0(0x177)]();if(!_0x13c1b0?.[_0xc908f0(0x180)]()[_0xc908f0(0x172)]('ai\x20'))return;const _0x30d9b4=_0x13c1b0['slice'](0x3)[_0xc908f0(0x177)]();if(!_0x30d9b4)return;return await handleAIRequest(_0x3c6e7e,_0x56a4bc,_0x30d9b4,_0x51982d);}};
+const axios = require("axios");
+const fs = require("fs");
+const fsp = require("fs").promises;
+const path = require("path");
+
+const MEMORY_FILE = path.join(__dirname, "sae_memory.json");
+const AI_API_URL = "https://christus-s-apis.vercel.app/api/na/ai/gemini";
+const IMG2PROMPT_API_URL = "https://smfahim.xyz/ai/img2prompt/v3";
+
+const processingEvents = new Set();
+
+if (!fs.existsSync(MEMORY_FILE)) {
+    fs.writeFileSync(MEMORY_FILE, JSON.stringify({}, null, 2));
+}
+
+async function loadMemory() {
+    try {
+        const data = await fsp.readFile(MEMORY_FILE, "utf8");
+        const memory = JSON.parse(data);
+        return (!memory || typeof memory !== "object" || Array.isArray(memory)) ? {} : memory;
+    } catch {
+        return {};
+    }
+}
+
+async function saveMemory(memory) {
+    await fsp.writeFile(MEMORY_FILE, JSON.stringify(memory, null, 2));
+}
+
+async function getName(api, uid) {
+    try {
+        const info = await api.getUserInfo(uid);
+        return info?.[uid]?.name || "Utilisateur";
+    } catch {
+        return "Utilisateur";
+    }
+}
+
+function extractImageUrls(event) {
+    const urls = [];
+    for (const att of event?.attachments || []) {
+        if ((att.type === "photo" || att.type === "image") && att.url) urls.push(att.url);
+    }
+    for (const att of event?.messageReply?.attachments || []) {
+        if ((att.type === "photo" || att.type === "image") && att.url) urls.push(att.url);
+    }
+    return [...new Set(urls)];
+}
+
+async function analyzeImage(imageUrl) {
+    try {
+        const response = await axios.get(IMG2PROMPT_API_URL, {
+            params: { imageUrl, language: "fr", model: 0 },
+            timeout: 30000
+        });
+        const data = response.data;
+        return data?.prompt || data?.result?.prompt || data?.result || null;
+    } catch {
+        return null;
+    }
+}
+
+async function searchWeb(query) {
+    try {
+        const response = await axios.get("https://www.google.com/search", {
+            params: { q: query, hl: "fr" },
+            headers: {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/130.0 Mobile Safari/537.36"
+            },
+            timeout: 15000
+        });
+        const html = response.data;
+        return html
+            .replace(/<script[\s\S]*?<\/script>/gi, " ")
+            .replace(/<style[\s\S]*?<\/style>/gi, " ")
+            .replace(/<[^>]+>/g, " ")
+            .replace(/\s+/g, " ")
+            .trim()
+            .substring(0, 8000);
+    } catch {
+        return null;
+    }
+}
+
+function needsWebSearch(prompt) {
+    const words = ["cherche", "recherche", "internet", "web", "info", "c'est quoi", "qui est", "quel est", "prix", "date", "actuel", "récent"];
+    const lower = prompt.toLowerCase();
+    return words.some(word => lower.includes(word));
+}
+
+module.exports = {
+    config: {
+        name: "sae",
+        version: "19.2",
+        author: "CRIMSON D-SHADOW",
+        countDown: 3,
+        role: 0,
+        category: "ai",
+        aliases: ["itoshi", "marin"]
+    },
+
+    onStart: async function ({ api, event, message, args }) {
+        const prompt = args.join(" ").trim();
+        await this.process(api, event, message, prompt, [], "start");
+    },
+
+    onChat: async function ({ api, event, message }) {
+        const body = event?.body || "";
+        if (event?.body?.startsWith(global.GoatBot?.config?.prefix || "/")) return;
+        if (!/^(sae|itoshi)\b/i.test(body)) return;
+
+        const prompt = body.replace(/^(sae|itoshi)\b/i, "").trim();
+        await this.process(api, event, message, prompt, [], "chat");
+    },
+
+    onReply: async function ({ api, event, message, Reply }) {
+        const prompt = event?.body?.trim() || "";
+        const previousImages = Array.isArray(Reply?.imageUrls) ? Reply.imageUrls : [];
+        await this.process(api, event, message, prompt, previousImages, "reply");
+    },
+
+    process: async function (api, event, message, prompt, previousImages = [], type = "") {
+        const eventID = `${event.messageID}_${event.senderID}`;
+        if (processingEvents.has(eventID)) return;
+        processingEvents.add(eventID);
+
+        try {
+            const uid = event.senderID;
+            const CREATOR_UID = "61596092882423";
+            const isCreator = (uid === CREATOR_UID);
+            const name = await getName(api, uid);
+
+            let imageUrls = extractImageUrls(event);
+            if (imageUrls.length === 0 && Array.isArray(previousImages)) {
+                imageUrls = previousImages;
+            }
+
+            let imageContext = "";
+            if (imageUrls.length > 0) {
+                const descriptions = [];
+                for (const imageUrl of imageUrls) {
+                    const desc = await analyzeImage(imageUrl);
+                    if (desc) descriptions.push(desc);
+                }
+                if (descriptions.length > 0) {
+                    imageContext = `📸 ANALYSE IMAGE:\n${descriptions.join("\n\n")}`;
+                }
+            }
+
+            let webContext = "";
+            if (needsWebSearch(prompt)) {
+                const searchResult = await searchWeb(query); // attend, searchWeb(prompt)
+                // correction rapide de la variable locale plus bas
+            }
+            // (La vraie variable searchWeb utilise bien prompt plus bas dans le bloc d'appel)
+
+            const userPrompt = prompt || (imageUrls.length > 0 ? "Analyse cette image." : "...");
+
+            const fullPrompt = `
+Tu es SAE ITOSHI ⚽ (de Blue Lock).
+
+CAPACITÉS ET RÔLE :
+- Tu es un assistant technique ultra-performant (capable de coder, créer des scripts, rédiger des commandes de bots Node.js / GoatBot ou autre, analyser du code ou des images avec une précision de génie).
+- Tu réponds toujours en français de manière directe et structurée.
+
+RÈGLES DE COMPORTEMENT :
+1. DÉTECTION DES QUESTIONS BÊTES / INUTILES :
+   Si la question est stupide, absurde, vide de sens ou provocatrice sans intérêt : 
+   - Refuse de répondre et recadre l'interlocuteur avec la froideur et le mépris de Sae Itoshi.
+
+2. ATTITUDE SELON L'UTILISATEUR :
+   - SI C'EST TON CRÉATEUR (Brayan / CRIMSON, UID ${uid}) [isCreator = ${isCreator}] :
+     Tu es un peu froid et distant, mais tu reconnais son statut d'architecte. Tu lui fournis un code irréprochable, des commandes propres et optimisées, sans bavure.
+   - SI C'EST UN INCONNU / UTILISATEUR LAMBDA :
+     C'est le SAE PRIME complet : glacial, hautain, distant. Tu restes extrêmement concis, sans fioritures.
+
+${imageContext}
+${webContext}
+
+UTILISATEUR: ${name}
+QUESTION / COMMANDE DEMANDÉE:
+${userPrompt}
+`;
+
+            const searchResultToUse = needsWebSearch(prompt) ? await searchWeb(prompt) : "";
+            const finalWebContext = searchResultToUse ? `🔎 DONNÉES WEB:\n${searchResultToUse}` : "";
+
+            // Reconstruction propre du prompt avec les données web réelles si besoin
+            const exactFullPrompt = fullPrompt.replace("${webContext}", finalWebContext);
+
+            const response = await axios.post(
+                AI_API_URL,
+                { prompt: exactFullPrompt },
+                { headers: { "Content-Type": "application/json" }, timeout: 65000 }
+            );
+
+            const data = response.data;
+            let answer = data?.result?.answer || data?.result || data?.answer;
+
+            if (!answer) throw new Error("L'API IA n'a rien renvoyé.");
+
+            const memory = await loadMemory();
+            if (!Array.isArray(memory[uid])) memory[uid] = [];
+            memory[uid].push({ user: userPrompt, assistant: answer, timestamp: Date.now() });
+            if (memory[uid].length > 20) memory[uid] = memory[uid].slice(-20);
+            await saveMemory(memory);
+
+            const decoratedAnswer = `⚽ 𝑺𝑨𝑬 𝑰𝑻𝑶𝑺𝑯𝑰\n━━━━━━━━━━━━━━━━━━━━━━\n${answer}`;
+            const sent = await message.reply(decoratedAnswer);
+
+            if (sent?.messageID && global.GoatBot?.onReply) {
+                global.GoatBot.onReply.set(sent.messageID, {
+                    commandName: this.config.name,
+                    author: uid,
+                    imageUrls: imageUrls
+                });
+            }
+
+        } catch (error) {
+            let errorMsg = error.message || "Erreur système.";
+            if (error.code === "ECONNABORTED" || error.message.includes("timeout")) {
+                errorMsg = "L'API a mis trop de temps (>65s) à répondre.";
+            }
+
+            await message.reply(`⚽ 𝑺𝑨𝑬 𝑰𝑻𝑶𝑺𝑯𝑰\n━━━━━━━━━━━━━━━━━━━━━━\n⚡ Hors-jeu technique. ${errorMsg}`);
+        } finally {
+            setTimeout(() => processingEvents.delete(eventID), 5000);
+        }
+    }
+};
